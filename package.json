@@ -1,0 +1,17 @@
+{
+  "name": "camunda-modeler-script-box-height-plugin",
+  "version": "0.1.0",
+  "description": "Camunda Modeler Script Box Height Plugin",
+  "main": "index.js",
+  "keywords": [
+    "camunda",
+    "modeler",
+    "plugin"
+  ],
+  "author": "David Shepherd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shepda/camunda-modeler-script-box-height-plugin/issues"
+  },
+  "homepage": "https://github.com/shepda/camunda-modeler-script-box-height-plugin#readme"
+}
