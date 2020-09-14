@@ -14,3 +14,6 @@ This plugin improves that by setting a bigger script box height by default.
 
 1. Clone this repo into the `plugins` directory of Camunda Modeler
 2. Restart Camunda Modeler
+
+## Licence
+MIT
