@@ -10,6 +10,10 @@ This plugin improves that by setting a bigger script box height by default.
 
 ![](docs/preview-after.png)
 
+## Compatibility
+
+This plugin is currently compatible with Camunda Modeler up to v4.12.
+
 ## Installation
 
 1. Clone this repo into the `plugins` directory of Camunda Modeler
