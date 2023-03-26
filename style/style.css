@@ -1,3 +1,9 @@
+/* Modeler version <= 4 */
 #cam-script-val {
+  height: 500px;
+}
+
+/* Modeler version 5 */
+textarea#bio-properties-panel-scriptValue {
   height: 500px;
 }
