@@ -4,6 +4,6 @@
 }
 
 /* Modeler version 5 */
-textarea#bio-properties-panel-scriptValue {
+textarea.bio-properties-panel-input-monospace {
   height: 500px;
 }
