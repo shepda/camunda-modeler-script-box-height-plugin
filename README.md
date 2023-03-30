@@ -12,7 +12,7 @@ This plugin improves that by setting a bigger script box height by default.
 
 ## Compatibility
 
-This plugin is currently compatible with Camunda Modeler up to v4.12.
+This plugin is currently compatible with Camunda Modeler up to v5 (tested thoroughly up to version 5.5.0).
 
 ## Installation
 
